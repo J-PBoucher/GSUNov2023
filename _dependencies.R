@@ -1,0 +1,7 @@
+library(tidyverse)
+library(xaringan)
+library(xaringanthemer)
+library(kableExtra)
+library(DT)
+library(showtext)
+library(miniUI)
